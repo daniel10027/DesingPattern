@@ -89,5 +89,3 @@ Tu peux étendre chaque pattern avec :
 - *Design Patterns - GoF (1994)*
 - *Refactoring Guru* – https://refactoring.guru/design-patterns
 - *SourceMaking* – https://sourcemaking.com/design_patterns
-# DesignPattern
-# DesingPattern
